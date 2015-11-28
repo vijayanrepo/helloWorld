@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "AZGenieView.h"
 
-@interface ViewController : UIViewController<AZGenieAnimationDelegate>
+@interface ViewController : UIViewController<AZGenieAnimationDelegate,UITextFieldDelegate>
 
 {
 
